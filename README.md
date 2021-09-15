@@ -9,3 +9,11 @@
 ## DEPLOY TO HEROKU
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-LOVELY/TELEGRAPH)
+
+## CREDITS 
+[Tanaji](https://t.me/AQUAMAN_XD)
+
+[Tushar](https://t.me/TUSHAR204
+
+[ORIGINAL REPO](https://github.com/Benchamxd/Telegraph-Uploader)
+
