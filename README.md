@@ -10,6 +10,8 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-LOVELY/TELEGRAPH)
 
+
+## STAR THE REPOSITRY PLEASE😉
 ## CREDITS 
 [Tanaji](https://t.me/AQUAMAN_XD)
 
