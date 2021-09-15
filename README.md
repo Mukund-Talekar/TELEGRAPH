@@ -13,7 +13,7 @@
 ## CREDITS 
 [Tanaji](https://t.me/AQUAMAN_XD)
 
-[Tushar](https://t.me/TUSHAR204
+[Tushar](https://t.me/TUSHAR204)
 
 [ORIGINAL REPO](https://github.com/Benchamxd/Telegraph-Uploader)
 
