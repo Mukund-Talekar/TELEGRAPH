@@ -1,10 +1,10 @@
 ## TELEGRAPH
 
 ## Features 
-◇ A simple python based bot to upload images,videos,gifs to the telegra.ph
+✌︎ A simple python based bot to upload images,videos,gifs to the telegra.ph
 
 
-◇ Work on heroku Without any issues 🥲🥲, etc.
+☞︎︎︎ Work on heroku Without any issues 🥲🥲, etc.
 
 ## DEPLOY TO HEROKU
 
