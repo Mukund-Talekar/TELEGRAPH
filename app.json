@@ -1,0 +1,40 @@
+{
+    "name": "TELEGRAPH",
+    "description": "MAKE A LINK OF PHOTOS,VIDEOS & GIFS",
+    "logo": "https://telegra.ph/file/3add51ef0351f4ea0dac6.jpg",
+    "keywords": [
+        "Telegra.ph",
+        "Uploader",
+        "Telegram Bot",
+        "Benchamxd"
+    ],
+    "website": "https://benchamxd.me",
+    "repository": "https://github.com/Benchamxd/Telegra.ph-Uploader/",
+    "success_url": "https://telegram.dog/indusbots",
+    "env": {
+        "TG_BOT_TOKEN": {
+            "description": "You Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Your API ID from my.telegram.org",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
