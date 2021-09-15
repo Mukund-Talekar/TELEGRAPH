@@ -6,5 +6,6 @@
 
 ◇ Work on heroku Without any issues 🥲🥲, etc.
 
-## CLICK ON THE IMAGE TO DEPLOY YOUR OWN
-[.](https://heroku.com/deploy?newtemplate=https://github.com/TEAM-LOVELY/TELEGRAPH)
+## DEPLOY TO HEROKU
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-LOVELY/TELEGRAPH)
