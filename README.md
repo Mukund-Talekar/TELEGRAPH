@@ -13,7 +13,7 @@
 
 ## STAR THE REPOSITRY PLEASE😉
 ## CREDITS 
-[Tanaji](https://t.me/AQUAMAN_XD)
+
 
 [Tushar](https://t.me/TUSHAR204)
 
